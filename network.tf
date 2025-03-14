@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "hub_rg" {
-  name     = "rg-hub"
+  name     = "rg-hub2"
   location = "East US"
 }
 
